@@ -1,0 +1,1 @@
+import{xt as e}from"./shared-C2eITlIE.js";import{n as t}from"./return-path-D4n5FPEd.js";var n=`/sign-in`;function r(e){let r=typeof e==`object`&&e?e:{},i=t(r.back);return{from:t(r.from),back:i===`/`&&r.back!==`/`?n:i}}function i(t){let n=typeof t==`object`&&t&&`phoneNumber`in t?t.phoneNumber:void 0;return typeof n==`string`&&e(n)?n:``}export{i as n,r as t};

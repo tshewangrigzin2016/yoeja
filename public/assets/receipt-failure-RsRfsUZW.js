@@ -1,0 +1,1 @@
+import{a as e}from"./monitoring-Dh-4pE3B.js";function t(t,n){return n instanceof e&&n.status===403?t(`ERROR.RECEIPT_ELSEWHERE`):t(`ERROR.RECEIPT_DOWNLOAD_FAILED`)}export{t};

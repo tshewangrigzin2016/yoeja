@@ -1,0 +1,1 @@
+function e(e){return`/stories/${e}/`}export{e as t};

@@ -1,0 +1,1 @@
+function e(e=300){let t=null;return{tryTake(n){return t!==null&&n-t<e?!1:(t=n,!0)},reset(){t=null}}}var t=e();export{t};

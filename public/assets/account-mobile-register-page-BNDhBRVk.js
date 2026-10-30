@@ -1,0 +1,1 @@
+import{t as e}from"./compiler-runtime-C61-Iblk.js";import{p as t,t as n}from"./components-1VjQr_Dh.js";import{t as r}from"./jsx-runtime-_3M-sZBb.js";var i=e(),a=r();function o(){let e=(0,i.c)(2),{state:r}=t(),o;return e[0]===r?o=e[1]:(o=(0,a.jsx)(n,{to:`/account/mobile`,state:r,replace:!0}),e[0]=r,e[1]=o),o}export{o as AccountMobileRegisterPage};

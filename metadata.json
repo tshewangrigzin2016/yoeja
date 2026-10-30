@@ -1,0 +1,6 @@
+{
+  "name": "Yoeja",
+  "description": "Yoeja lets anyone, anywhere, dedicate a name to Bhutan’s Unbroken Prayer. Read the stories, pray at your own pace, and make an offering if you wish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
